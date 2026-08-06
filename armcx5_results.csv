@@ -1,0 +1,6 @@
+Cancer Type,N,Log-rank p-value,Cox-adjusted p-value,Significant (Cox, p<0.05)
+LUAD,557,0.283202,0.969035,No
+OV,307,0.223172,0.079789,No (trending)
+KIRC,602,0.907127,0.407018,No
+SKCM,407,0.176754,0.036075,Yes
+UCEC,521,0.435571,0.145630,No
